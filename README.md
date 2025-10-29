@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&background=00000000&center=true&multiline=true&width=600&lines=Hi%2C+I%27m+Madhumitha+Srinivasan;A+Code+Enthusiast!)
 
 
+
+
 🎓 **MS in Computer Science, Wright State University (2025)**  
 🚀  Passionate about Full-Stack Development
 
