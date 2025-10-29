@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&background=00000000&center=true&multiline=true&width=800&lines=Hi%2C+I%27m+Madhumitha+Srinivasan;<A+Code+Enthusiast!/>)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&background=00000000&center=true&multiline=true&width=700&lines=Hi%2C+I%27m+Madhumitha;<A+Code+Enthusiast! />)
+
 
 
 
