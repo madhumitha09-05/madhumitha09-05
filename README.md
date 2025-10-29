@@ -1,5 +1,11 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&background=00000000&center=true&width=700&lines=Hi%2C+I%27m+Madhumitha)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&background=00000000&center=true&width=700&lines=A+Code+Enthusiast!)
+<p align="center">
+  <!-- First line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&background=00000000&center=true&width=700&lines=Hi%2C+I%27m+Madhumitha" />
+  <br>
+  <!-- Second line (different color) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFD700&background=00000000&center=true&width=700&lines=A+Code+Enthusiast!" />
+</p>
+
 
 
 
