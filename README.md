@@ -42,6 +42,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-info&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumitha-srinivasan-523174323/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=netlify&logoColor=white)](https://madhumitha-info.netlify.app)  
