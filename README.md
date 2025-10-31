@@ -18,7 +18,7 @@
 ## 💡 About Me
 - Experienced in **ASP.NET Core, React, SQL, and C#**  
 - Enjoy solving complex problems and building functional, user-friendly applications  
-- Skilled in designing web apps, desktop apps, and ML pipelines
+- Skilled in designing web apps, desktop apps, ML pipelines, and Data Analysis
 
 ---
 
@@ -27,7 +27,7 @@
 **Frameworks & Libraries:** ASP.NET Core, React, Blazor, WPF 
 **Databases:** SQL Server, MongoDB  
 **Tools & Platforms:** Git, Visual Studio, Azure, Power BI, Postman  
-**Other:** Agile methodologies, REST APIs, Desktop & Web Applications  
+**Other:** Agile methodologies, ETL, REST APIs, Desktop & Web Applications  
 
 ---
 
